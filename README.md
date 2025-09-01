@@ -1,7 +1,7 @@
 # Employee-Data-Management-PowerBI
 This project analyzes employee data to track attrition rate and uncover insights into workforce trends. The dashboard helps HR teams and management understand why employees are leaving and how different factors affect retention.
 
-🔹 Key Objectives
+Key Objectives
 
 Calculate and visualize the overall attrition rate.
 
@@ -14,7 +14,7 @@ Explore the relationship between salary, overtime, work-life balance, and attrit
 Provide HR with actionable insights to improve employee retention.
 
 
-🔹 Dashboard Features
+Dashboard Features
 
 KPI Cards: Total Employees, Attrition Count, Attrition Rate
 
